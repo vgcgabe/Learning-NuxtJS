@@ -1,6 +1,11 @@
+<script setup>
+    //import NavBar from "../components/NavBar.vue";
+</script>
+
 <template>
     <div>
-      <h1>Hello</h1>
+      <NavBar />
+      <CarHero />
     </div>
   </template>
   
